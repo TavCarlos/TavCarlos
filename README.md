@@ -1,10 +1,10 @@
-### Olá! Eu me chamo Antonio Carlos Tavares 👋
+## Olá! Eu me chamo Antonio Carlos Tavares 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 
 ![Tavares' GitHub stats](https://github-readme-stats.vercel.app/api?username=TavCarlos&show_icons=true&theme=tokyonight)
 
-### Tecnologias
+## Tecnologias
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
